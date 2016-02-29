@@ -9,6 +9,9 @@ namespace CookieClicker
 {
     class GameWorld
     {
+        private static int bossHealth = 6;
+        private static int playerDmg = 1;
+        private static int gold = 0;
         private static List<GameObject> toRemove = new List<GameObject>();
         public static List<GameObject> toAdd = new List<GameObject>();
         private Graphics dc;
@@ -28,6 +31,45 @@ namespace CookieClicker
         {
             get { return toRemove; }
             set { toRemove = value; }
+        }
+
+        public static int Gold
+        {
+            get
+            {
+                return gold;
+            }
+
+            set
+            {
+                gold = value;
+            }
+        }
+
+        public static int BossHealth
+        {
+            get
+            {
+                return bossHealth;
+            }
+
+            set
+            {
+                bossHealth = value;
+            }
+        }
+
+        public static int PlayerDmg
+        {
+            get
+            {
+                return playerDmg;
+            }
+
+            set
+            {
+                playerDmg = value;
+            }
         }
 
         public GameWorld(Graphics dc, Rectangle displayRectangle)
@@ -92,14 +134,17 @@ namespace CookieClicker
         }
         private void Draw()
         {
+            dc.Clear(Color.Aqua);
+
             foreach (GameObject go in gameObj)
             {
                 go.Draw(dc);
             }
 
-#if DEBUG
             Font f = new Font("Arial", 16);
-            dc.DrawString(string.Format("FPS: {0}", currentFps), f, Brushes.Black, 0, 0);
+            dc.DrawString(string.Format("Boss Health: {0}", bossHealth), f, Brushes.Black, 200, 200);
+#if DEBUG
+            dc.DrawString(string.Format("FPS: {0}", currentFps), f, Brushes.Black, 100, 100);
 #endif 
             backBuffer.Render();
         }
