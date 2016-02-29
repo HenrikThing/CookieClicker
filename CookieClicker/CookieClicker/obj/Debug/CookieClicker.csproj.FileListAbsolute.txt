@@ -1,1 +1,10 @@
 D:\Ny mappe (2)\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\bin\Debug\CookieClicker.pdb
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csprojResolveAssemblyReference.cache
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Form1.resources
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.Cache
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
