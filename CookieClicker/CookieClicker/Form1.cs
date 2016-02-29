@@ -32,5 +32,10 @@ namespace CookieClicker
             }
             gw = new GameWorld(dc, this.DisplayRectangle);
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
