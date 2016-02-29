@@ -78,7 +78,7 @@ namespace CookieClicker
             
             foreach  ( GameObject go in gameObj)
             {
-                go.update(fps);
+                go.Update(fps);
             }
 
         }

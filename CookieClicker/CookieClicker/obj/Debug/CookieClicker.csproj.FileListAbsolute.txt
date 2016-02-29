@@ -9,3 +9,12 @@ C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\Coo
 C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
 C:\Users\claus\Documents\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
 D:\semester 2 projekter\CookieClicker\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\bin\Debug\CookieClicker.pdb
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csprojResolveAssemblyReference.cache
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Form1.resources
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.Cache
