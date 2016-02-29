@@ -16,12 +16,11 @@ namespace CookieClicker
         private float scaleFactor;
         
 
-        public GameObject(string imagePath, Vector2D startPosition, float scaleFactor)
+        public GameObject(string imagePath, Vector2D startPosition)
         {
             string[] imagePaths = imagePath.Split(';');
             this.position = startPosition;
             this.animationFrames = new List<Image>();
-            this.scaleFactor = scaleFactor;
             foreach (string path in imagePaths)
             {
                 animationFrames.Add(Image.FromFile(path));
@@ -31,10 +30,10 @@ namespace CookieClicker
         public virtual void Draw(Graphics dc)
         {
             
-            dc.DrawImage(sprite, position.X,position.Y,sprite.Width*scaleFactor,sprite.Height*scaleFactor);
+            dc.DrawImage(sprite, position.X,position.Y,sprite.Width*scaleFactor,sprite.Height);
             
         }
-        public virtual void update(float fps)
+        public virtual void Update(float fps)
         {
            
         }
