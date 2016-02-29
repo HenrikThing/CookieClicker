@@ -18,3 +18,5 @@ D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\D
 D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Form1.resources
 D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
 D:\Dania Games\Dania - Projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.Cache
+D:\semester 2 projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+D:\semester 2 projekter\CookieClicker\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
